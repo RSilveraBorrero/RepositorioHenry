@@ -1,2 +1,1 @@
-# RepositorioHenry
-Este es un repositorio de Homework 
+Este es un ejercicio de homework
